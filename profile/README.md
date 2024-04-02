@@ -4,6 +4,10 @@
 - The Hydraulic Hydras are a FIRST Tech Challenge team from John Dewey High School from Brooklyn, New York. This team has evolved throughout this time leaving legacies behind allowing new members to learn from past mistakes and adapting older ideas from previous robots to newer robots. 
 - As a team we embody FIRST core values in our everyday lives. Whether it be being gracious throughout our day or being professional while helping someone who needs it. Our team has set these core values to create not only a better work environment but to also have a safe space for all.
 
+# GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=Hydraulic-Hydras&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hydraulic-Hydras&theme=dark&hide_border=false)</br>
+
 # Tech Stack 💻
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
